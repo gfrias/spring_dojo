@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:54320/weather
+    username: postgres
+    password:
+
+server:
+  port: 8080
+  sessionTimeout: 10
+
+openWeather:
+  appId: <complete here!!>
+
+

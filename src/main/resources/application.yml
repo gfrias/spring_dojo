@@ -1,0 +1,12 @@
+spring:
+  jpa:
+    database: POSTGRESQL
+    show-sql: true
+    hibernate:
+      ddl-auto: create-drop
+  datasource:
+    platform: postgres
+    driverClassName: org.postgresql.Driver
+
+openWeather:
+  url: http://api.openweathermap.org/data/2.5/weather?q={city}&APPID={appId}
