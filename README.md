@@ -1,4 +1,4 @@
-Spring Boot Coding Dojo
+Spring Boot Coding Dojo (SOLUTION)
 ---
 
 This is the Solution for the Spring Boot Coding Dojo by Guillermo Frias
